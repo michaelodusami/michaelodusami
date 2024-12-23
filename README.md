@@ -4,7 +4,7 @@
 - 🦁 I am a self taught Full Stack Engineer attending Virginia Tech pursuing a Bachelors in Engineering 
 - 🌱 I am currently learning about spring boot, system design, api testing, and maybe Arduino very soon.
 - 📚 I have just started to post what I learn on Medium, so please take a look -> [michaelodusami.medium](https://michaelodusami.medium.com/)
-- 🔭 I am currently working on building an amaozon backend api! Using Spring Boot w/ PostgreSQL
+- 🔭 I am currently working on building an amazon backend api! Using Spring Boot w/ PostgreSQL
 
 <h2> Skills </h2>
 <table align="center">
