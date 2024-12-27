@@ -3,7 +3,6 @@
 
 - 🦁 I am a self taught Software Engineer attending Virginia Tech pursuing a Bachelors in Engineering 
 - 🌱 I am currently learning about system design, api testing, and maybe Arduino very soon.
-- 📚 I have just started to post what I learn on Medium, so please take a look -> [michaelodusami.medium](https://michaelodusami.medium.com/)
 - 🔭 I am currently working on building an mobile application which will be releaed between June-August.
 
 <h2> Skills </h2>
@@ -202,9 +201,9 @@
           <a href="https://www.linkedin.com/in/odusami03/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width="48" height="48" alt="LinkedIn" title="LinkedIn"/></a>
           <br>LinkedIn
        </td>
-      <td align="center" width="96">
+<!--       <td align="center" width="96">
           <a href="https://michaelodusami.medium.com/"><img src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" width="48" height="48" alt="Medium" title="Medium"/></a>
           <br>Medium
-       </td>
+       </td> -->
     </tr>
   </table>
