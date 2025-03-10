@@ -18,5 +18,5 @@
 ---
 
 ## 🎯 Let's Connect & Build!
-⚡ **Open to collaborations** on Swift, iOS, and mobile development projects.  
+⚡ **Open to collaborations** on Swift, iOS, Web, and mobile development projects.  
 📬 **DM me on LinkedIn/Twitter** or open an **issue/discussion** on my GitHub!  
