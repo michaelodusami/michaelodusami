@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Michael-Andre Odusami
 
 🚀 **Mobile & Full-Stack Developer | iOS Engineer | Content Creator**  
-🎥 **YouTuber** sharing in-depth **Swift & iOS development** related topics
 🏆 **4x Hackathon Winner**
 
 ---
