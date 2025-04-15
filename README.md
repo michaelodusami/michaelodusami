@@ -7,12 +7,9 @@
 
 ## 📺 Content & Learning 📚
 
-💡 **YouTube:** [@michaelodus](https://www.youtube.com/@michaelodus)  
-🌐 **Portfolio:** [michaelodusamiweb.vercel.app](https://michaelodusamiweb.vercel.app/)  
-📬 **Email:** [modusami03@gmail.com](mailto:modusami03@gmail.com)  
-🐦 **Twitter:** [@michaelodusami](https://x.com/michaelodusami)  
 👔 **LinkedIn:** [linkedin.com/in/odusami03](https://www.linkedin.com/in/odusami03/)  
 👨‍💻 **GitHub:** [github.com/michaelodusami](https://github.com/michaelodusami)  
+📬 **Medium:** [medium.com/@michaelodusami](https://medium.com/@michaelodusami)
 
 ---
 
