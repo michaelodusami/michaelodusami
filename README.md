@@ -7,9 +7,8 @@
 
 ## 📺 Content & Learning 📚
 
-👔 **LinkedIn:** [linkedin.com/in/odusami03](https://www.linkedin.com/in/odusami03/)  
-👨‍💻 **GitHub:** [github.com/michaelodusami](https://github.com/michaelodusami)  
-📬 **Medium:** [medium.com/@michaelodusami](https://medium.com/@michaelodusami)
+### 👔 **LinkedIn:** [linkedin.com/in/odusami03](https://www.linkedin.com/in/odusami03/)  
+### 📬 **Medium:** [medium.com/@michaelodusami](https://medium.com/@michaelodusami)
 
 ---
 
