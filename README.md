@@ -8,7 +8,6 @@
 ## 📺 Content & Learning 📚
 
 ### 👔 **LinkedIn:** [linkedin.com/in/odusami03](https://www.linkedin.com/in/odusami03/)  
-### 📬 **Medium:** [medium.com/@michaelodusami](https://medium.com/@michaelodusami)
 
 ---
 
