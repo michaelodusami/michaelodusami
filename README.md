@@ -1,16 +1,2 @@
-# 👋 Hi, I'm Michael-Andre Odusami
+**hi guys, i'm a student at Virginia Tech specializing in native ios development.**
 
-🚀 **Mobile & Full-Stack Developer | iOS Engineer | Content Creator**  
-🏆 **4x Hackathon Winner**
-
----
-
-## 📺 Content & Learning 📚
-
-### 👔 **LinkedIn:** [linkedin.com/in/odusami03](https://www.linkedin.com/in/odusami03/)  
-
----
-
-## 🎯 Let's Connect & Build!
-⚡ **Open to collaborations** on Swift, iOS, Web, and mobile development projects.  
-📬 **DM me on LinkedIn/Twitter** or open an **issue/discussion** on my GitHub!  
