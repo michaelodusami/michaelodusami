@@ -1,2 +1,2 @@
-**Hi! I am a -> Student at Virginia Tech.**
+**Hi! I am a ->  iOS Engineer and Student at Virginia Tech.**
 
